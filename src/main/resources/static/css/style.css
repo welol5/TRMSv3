@@ -1,0 +1,115 @@
+body {
+    background-color: #f74f4f;
+    /* min-width: fit-content;
+    min-height: fit-content; */
+}
+
+/*.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login {
+    background-color: #ffcebf;
+    border-radius: 0.5cm;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    box-shadow: 2px 2px 5px black;
+    width: 4in;
+    height: 2in;
+    align-content: center;
+}
+
+#loginButton {
+    border-radius: 1mm;
+} */
+
+#login-box {
+    background-color: #ffcebf;
+    border-radius: 2mm;
+    box-shadow: 2mm 2mm 5mm black;
+
+}
+
+.row {
+    padding: 2mm;
+}
+
+h1 {
+    text-align: center;
+}
+
+#badlogin {
+    background-color: red;
+    color: white;
+    border-style: solid;
+    border-width: 1mm;
+    border-color: black;
+    border-radius: 1mm;
+    text-align: center;
+}
+
+#navbar {
+    background-color: #ffcebf;
+}
+
+#claimsDiv {
+    padding: 1mm;
+}
+
+.claim {
+    background-color: #ffcebf;
+    border-radius: 2mm;
+    padding: 1mm;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.claimDate {
+    text-align: right;
+}
+
+.statusCol {
+    text-align: left;
+}
+
+.price {
+    text-align: right;
+}
+
+.testDiv {
+    background-color: blueviolet;
+}
+
+#description {
+    text-align: center;
+}
+
+#makeAClaim {
+    background-color: #ffcebf;
+    border-radius: 2mm;
+    padding: 1mm;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    box-shadow: 2mm 2mm 5mm black;
+    width: 20%;
+}
+
+.titleText {
+    text-align: center;
+}
+
+.goodInput {
+    border: 1mm solid black;
+}
+
+.failInput {
+    border: 1mm solid red;
+}
