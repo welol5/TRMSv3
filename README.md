@@ -29,5 +29,24 @@ TRMS, or Tuition Reimbursement Management System is a full-stack web application
 
 ## Getting Started
 
-use git clone to clone the repository
-compile the project with maven
+git clone https://github.com/welol5/TRMSv3.git
+
+Setup and AWS RDS and place the link with the username and password into the hibernate.cfg.xml file.
+
+compile the project with maven (I recomended to a JAR file).
+
+use java -jar [jar file name] to run the program.
+
+## Usage
+
+Open a web browser and navigate to your url.
+
+The port is 8080.
+
+## Contributors
+
+William Elliman
+
+## License
+
+This project uses the following license: MIT
