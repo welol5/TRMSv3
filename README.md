@@ -28,3 +28,6 @@ TRMS, or Tuition Reimbursement Management System is a full-stack web application
 * Employees can only request up to $1000 per year.
 
 ## Getting Started
+
+use git clone to clone the repository
+compile the project with maven
